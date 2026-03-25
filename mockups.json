@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "name": "Test Shirt",
+    "category": "T-Shirts",
+    "file": "https://raw.githubusercontent.com/ArhamAshfaqft/RapidMockup-Cloud/main/Image_fx.png"
+  }
+]
