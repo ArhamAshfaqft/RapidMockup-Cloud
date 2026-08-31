@@ -271,5 +271,33 @@
     "file": "https://raw.githubusercontent.com/ArhamAshfaqft/RavenMockup-Cloud/main/olive-crewneck-flatlay-studio.png",
     "thumb": "https://raw.githubusercontent.com/ArhamAshfaqft/RavenMockup-Cloud/main/olive-crewneck-flatlay-studio_thumb.jpg",
     "uploadedAt": "2026-08-28T05:36:23.376Z"
+  },
+  {
+    "name": "Male Black Heavyweight T-Shirt Front",
+    "category": "T-Shirts",
+    "file": "https://raw.githubusercontent.com/ArhamAshfaqft/RavenMockup-Cloud/main/male-black-heavyweight-tee-front.png",
+    "thumb": "https://raw.githubusercontent.com/ArhamAshfaqft/RavenMockup-Cloud/main/male-black-heavyweight-tee-front_thumb.jpg",
+    "uploadedAt": "2026-08-31T06:28:01.867Z"
+  },
+  {
+    "name": "Male Black Heavyweight T-Shirt Back",
+    "category": "T-Shirts",
+    "file": "https://raw.githubusercontent.com/ArhamAshfaqft/RavenMockup-Cloud/main/male-black-heavyweight-tee-back.png",
+    "thumb": "https://raw.githubusercontent.com/ArhamAshfaqft/RavenMockup-Cloud/main/male-black-heavyweight-tee-back_thumb.jpg",
+    "uploadedAt": "2026-08-31T06:28:01.867Z"
+  },
+  {
+    "name": "Male Light Beige Hoodie Front",
+    "category": "Hoodies & Sweatshirts",
+    "file": "https://raw.githubusercontent.com/ArhamAshfaqft/RavenMockup-Cloud/main/male-light-beige-hoodie-front.png",
+    "thumb": "https://raw.githubusercontent.com/ArhamAshfaqft/RavenMockup-Cloud/main/male-light-beige-hoodie-front_thumb.jpg",
+    "uploadedAt": "2026-08-31T06:28:01.867Z"
+  },
+  {
+    "name": "Male Light Beige Hoodie Back",
+    "category": "Hoodies & Sweatshirts",
+    "file": "https://raw.githubusercontent.com/ArhamAshfaqft/RavenMockup-Cloud/main/male-light-beige-hoodie-back.png",
+    "thumb": "https://raw.githubusercontent.com/ArhamAshfaqft/RavenMockup-Cloud/main/male-light-beige-hoodie-back_thumb.jpg",
+    "uploadedAt": "2026-08-31T06:28:01.867Z"
   }
 ]
