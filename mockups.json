@@ -299,5 +299,47 @@
     "file": "https://raw.githubusercontent.com/ArhamAshfaqft/RavenMockup-Cloud/main/male-light-beige-hoodie-back.png",
     "thumb": "https://raw.githubusercontent.com/ArhamAshfaqft/RavenMockup-Cloud/main/male-light-beige-hoodie-back_thumb.jpg",
     "uploadedAt": "2026-08-31T06:28:01.867Z"
+  },
+  {
+    "name": "Male White Oversized T-Shirt Front",
+    "category": "T-Shirts",
+    "file": "https://raw.githubusercontent.com/ArhamAshfaqft/RavenMockup-Cloud/main/male-white-oversized-tee-front.png",
+    "thumb": "https://raw.githubusercontent.com/ArhamAshfaqft/RavenMockup-Cloud/main/male-white-oversized-tee-front_thumb.jpg",
+    "uploadedAt": "2026-08-31T06:40:00.000Z"
+  },
+  {
+    "name": "Male White Oversized T-Shirt Back",
+    "category": "T-Shirts",
+    "file": "https://raw.githubusercontent.com/ArhamAshfaqft/RavenMockup-Cloud/main/male-white-oversized-tee-back.png",
+    "thumb": "https://raw.githubusercontent.com/ArhamAshfaqft/RavenMockup-Cloud/main/male-white-oversized-tee-back_thumb.jpg",
+    "uploadedAt": "2026-08-31T06:40:00.000Z"
+  },
+  {
+    "name": "Male Charcoal Crewneck Sweatshirt Front",
+    "category": "Hoodies & Sweatshirts",
+    "file": "https://raw.githubusercontent.com/ArhamAshfaqft/RavenMockup-Cloud/main/male-charcoal-crewneck-sweatshirt-front.png",
+    "thumb": "https://raw.githubusercontent.com/ArhamAshfaqft/RavenMockup-Cloud/main/male-charcoal-crewneck-sweatshirt-front_thumb.jpg",
+    "uploadedAt": "2026-08-31T06:40:00.000Z"
+  },
+  {
+    "name": "Male Charcoal Crewneck Sweatshirt Back",
+    "category": "Hoodies & Sweatshirts",
+    "file": "https://raw.githubusercontent.com/ArhamAshfaqft/RavenMockup-Cloud/main/male-charcoal-crewneck-sweatshirt-back.png",
+    "thumb": "https://raw.githubusercontent.com/ArhamAshfaqft/RavenMockup-Cloud/main/male-charcoal-crewneck-sweatshirt-back_thumb.jpg",
+    "uploadedAt": "2026-08-31T06:40:00.000Z"
+  },
+  {
+    "name": "Male Navy Long Sleeve T-Shirt Front",
+    "category": "T-Shirts",
+    "file": "https://raw.githubusercontent.com/ArhamAshfaqft/RavenMockup-Cloud/main/male-navy-longsleeve-tee-front.png",
+    "thumb": "https://raw.githubusercontent.com/ArhamAshfaqft/RavenMockup-Cloud/main/male-navy-longsleeve-tee-front_thumb.jpg",
+    "uploadedAt": "2026-08-31T06:40:00.000Z"
+  },
+  {
+    "name": "Male Navy Long Sleeve T-Shirt Back",
+    "category": "T-Shirts",
+    "file": "https://raw.githubusercontent.com/ArhamAshfaqft/RavenMockup-Cloud/main/male-navy-longsleeve-tee-back.png",
+    "thumb": "https://raw.githubusercontent.com/ArhamAshfaqft/RavenMockup-Cloud/main/male-navy-longsleeve-tee-back_thumb.jpg",
+    "uploadedAt": "2026-08-31T06:40:00.000Z"
   }
 ]
